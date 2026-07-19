@@ -1,0 +1,12 @@
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Local only - source photo is in repo but not the prepped temp file
+source-prepped.png
+
+# OS
+.DS_Store
+Thumbs.db

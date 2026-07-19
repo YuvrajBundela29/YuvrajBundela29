@@ -1,0 +1,525 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420.0" height="455.0" viewBox="0 0 420.0 455.0">
+  <rect width="100%" height="100%" fill="#0d1117"/>
+  <defs>
+    <clipPath id="cr0"><rect x="0" y="0.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="0.000s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr1"><rect x="0" y="7.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="0.060s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr2"><rect x="0" y="14.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="0.120s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr3"><rect x="0" y="21.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="0.180s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr4"><rect x="0" y="28.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="0.240s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr5"><rect x="0" y="35.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="0.300s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr6"><rect x="0" y="42.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="0.360s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr7"><rect x="0" y="49.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="0.420s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr8"><rect x="0" y="56.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="0.480s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr9"><rect x="0" y="63.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="0.540s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr10"><rect x="0" y="70.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="0.600s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr11"><rect x="0" y="77.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="0.660s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr12"><rect x="0" y="84.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="0.720s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr13"><rect x="0" y="91.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="0.780s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr14"><rect x="0" y="98.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="0.840s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr15"><rect x="0" y="105.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="0.900s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr16"><rect x="0" y="112.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="0.960s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr17"><rect x="0" y="119.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="1.020s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr18"><rect x="0" y="126.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="1.080s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr19"><rect x="0" y="133.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="1.140s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr20"><rect x="0" y="140.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="1.200s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr21"><rect x="0" y="147.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="1.260s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr22"><rect x="0" y="154.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="1.320s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr23"><rect x="0" y="161.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="1.380s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr24"><rect x="0" y="168.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="1.440s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr25"><rect x="0" y="175.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="1.500s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr26"><rect x="0" y="182.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="1.560s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr27"><rect x="0" y="189.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="1.620s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr28"><rect x="0" y="196.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="1.680s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr29"><rect x="0" y="203.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="1.740s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr30"><rect x="0" y="210.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="1.800s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr31"><rect x="0" y="217.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="1.860s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr32"><rect x="0" y="224.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="1.920s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr33"><rect x="0" y="231.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="1.980s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr34"><rect x="0" y="238.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="2.040s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr35"><rect x="0" y="245.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="2.100s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr36"><rect x="0" y="252.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="2.160s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr37"><rect x="0" y="259.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="2.220s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr38"><rect x="0" y="266.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="2.280s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr39"><rect x="0" y="273.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="2.340s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr40"><rect x="0" y="280.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="2.400s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr41"><rect x="0" y="287.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="2.460s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr42"><rect x="0" y="294.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="2.520s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr43"><rect x="0" y="301.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="2.580s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr44"><rect x="0" y="308.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="2.640s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr45"><rect x="0" y="315.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="2.700s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr46"><rect x="0" y="322.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="2.760s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr47"><rect x="0" y="329.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="2.820s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr48"><rect x="0" y="336.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="2.880s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr49"><rect x="0" y="343.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="2.940s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr50"><rect x="0" y="350.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="3.000s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr51"><rect x="0" y="357.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="3.060s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr52"><rect x="0" y="364.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="3.120s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr53"><rect x="0" y="371.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="3.180s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr54"><rect x="0" y="378.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="3.240s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr55"><rect x="0" y="385.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="3.300s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr56"><rect x="0" y="392.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="3.360s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr57"><rect x="0" y="399.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="3.420s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr58"><rect x="0" y="406.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="3.480s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr59"><rect x="0" y="413.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="3.540s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr60"><rect x="0" y="420.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="3.600s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr61"><rect x="0" y="427.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="3.660s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr62"><rect x="0" y="434.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="3.720s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr63"><rect x="0" y="441.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="3.780s" dur="0.051s" fill="freeze"/></rect></clipPath>
+    <clipPath id="cr64"><rect x="0" y="448.0" width="0" height="7.0"><animate attributeName="width" from="0" to="420.0" begin="3.840s" dur="0.051s" fill="freeze"/></rect></clipPath>
+  </defs>
+  <g clip-path="url(#cr0)">
+    <text x="0" y="6.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect y="0.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="0.000s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="0.051s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr1)">
+    <text x="0" y="13.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%@%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect y="7.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="0.060s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="0.111s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr2)">
+    <text x="0" y="20.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%@@@@@@@@@@@@@@@@@@%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect y="14.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="0.120s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="0.171s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr3)">
+    <text x="0" y="27.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@@%%%%#ssscccss#%%%@@@@@@@%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect y="21.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="0.180s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="0.231s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr4)">
+    <text x="0" y="34.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@%#scc**+======------+++*c#%%@%@@@%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect y="28.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="0.240s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="0.291s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr5)">
+    <text x="0" y="41.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@%c===-===--:```````````::----=cs#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect y="35.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="0.300s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="0.351s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr6)">
+    <text x="0" y="48.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@#*=------:::`````......````:-::`:-+*c#%%@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect y="42.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="0.360s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="0.411s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr7)">
+    <text x="0" y="55.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%c=:`:-:```````.`...`..`...`:`:-.`:``::-*c#@%@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect y="49.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="0.420s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="0.471s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr8)">
+    <text x="0" y="62.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%*-:::::::``..``.....``....``````..````::-=*%@%@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect y="56.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="0.480s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="0.531s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr9)">
+    <text x="0" y="69.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@%s+::-:::::::``. ..``.......`:`.......`:``::-+s%@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect y="63.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="0.540s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="0.591s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr10)">
+    <text x="0" y="76.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@%#*-::`..`....``:-===-:``.````........``.``:+#%%@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect y="70.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="0.600s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="0.651s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr11)">
+    <text x="0" y="83.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@%@s-`:`..```:-=+*ccssssc++==-===--:::::`..`:-c%@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect y="77.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="0.660s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="0.711s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr12)">
+    <text x="0" y="90.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@%@#:``::---=++*css#########sssssc*+++**+=:::=#@%@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect y="84.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="0.720s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="0.771s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr13)">
+    <text x="0" y="97.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%=``=*+++**cccss#####%%%%#####scc****cc*::*@%@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect y="91.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="0.780s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="0.831s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr14)">
+    <text x="0" y="104.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@=`-*******cccss#############sscc**ccccs=:#@%@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect y="98.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="0.840s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="0.891s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr15)">
+    <text x="0" y="111.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@c:+c*****ccccs#####%%%%%%####sscccccccs*=%@%@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect y="105.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="0.900s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="0.951s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr16)">
+    <text x="0" y="118.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%-*****cccssss#%%%%%%%%%%%%%##ssssssccs**@%@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect y="112.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="0.960s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="1.011s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr17)">
+    <text x="0" y="125.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%+*****c*=======*ss#####ssc+====+++cccc*c%%@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect y="119.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="1.020s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="1.071s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr18)">
+    <text x="0" y="132.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@*+***+=-===---::-=+***+=-:::--=+===+*c*s@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect y="126.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="1.080s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="1.131s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr19)">
+    <text x="0" y="139.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%s+**+++*cc**+=::`:-*c*+::`::==++**++***cs%@%@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect y="133.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="1.140s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="1.191s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr20)">
+    <text x="0" y="146.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@%@s=*c+**++=-:`:. `=`:-+s##c=-:=- .::`:-++*c*:+@%@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect y="140.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="1.200s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="1.251s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr21)">
+    <text x="0" y="153.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@%@c-=***cc*+===+=-+****cs#scc***+=+*++++*ccc+:=%@%@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect y="147.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="1.260s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="1.311s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr22)">
+    <text x="0" y="160.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@%@#===+*cccsssssssssc**cs##scccsss######sccc*=+%%@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect y="154.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="1.320s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="1.371s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr23)">
+    <text x="0" y="167.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@%+cc***ccs#####%%s*ccc#%##sscc#%%%%###sssc*+s@%@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect y="161.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="1.380s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="1.431s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr24)">
+    <text x="0" y="174.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@%@c*c***css###%%#s==*:`---:`-++c#%%%###sssc*=#@%@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect y="168.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="1.440s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="1.491s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr25)">
+    <text x="0" y="181.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@%@s+c***ccss#####s*=:`:-----:-+s#####sscc***+s@%@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect y="175.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="1.500s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="1.551s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr26)">
+    <text x="0" y="188.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@%*cc*++*csssss##sssc**cssscccssssssc**++++**c%@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect y="182.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="1.560s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="1.611s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr27)">
+    <text x="0" y="195.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@%%s*c++=+*cccssccccc*++=++===+++++*cc*+===+*c%@%@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect y="189.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="1.620s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="1.671s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr28)">
+    <text x="0" y="202.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%c+==+*cccc=::::`::-===-:``:-==*sc+===s@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect y="196.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="1.680s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="1.731s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr29)">
+    <text x="0" y="209.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@%*==+**ccsc***++**csscc***csss#sc+=-*%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect y="203.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="1.740s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="1.791s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr30)">
+    <text x="0" y="216.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%+-=+**ccsssscc**+====+*ccssssc+=-+%@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect y="210.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="1.800s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="1.851s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr31)">
+    <text x="0" y="223.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%*==++*cccssssscc***cccccssc*+=-*%@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect y="217.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="1.860s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="1.911s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr32)">
+    <text x="0" y="230.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@c====+**ccss#%%%%%%%##sssc*+==*@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect y="224.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="1.920s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="1.971s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr33)">
+    <text x="0" y="237.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%=.==--===+*css#######sscc*+=-=+=s@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect y="231.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="1.980s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="2.031s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr34)">
+    <text x="0" y="244.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@%=..++-:::::--=++*****++==-----=*:`s@%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect y="238.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="2.040s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="2.091s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr35)">
+    <text x="0" y="251.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@%%%@@s=:`.+*+=:```..````````....``:-+**`.:c@@%%%@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect y="245.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="2.100s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="2.151s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr36)">
+    <text x="0" y="258.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@%%%%@@@@%*--`.`+**+=-`...........   .`-=+*c+..`-*%@@@%%%%%@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect y="252.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="2.160s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="2.211s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr37)">
+    <text x="0" y="265.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@@@@@@%%%%@@@@@%#c=:--`..=****+=-```````...```:-+**c*: .:-=+s#%@@@@@%%%%@@@@@@@@@@@@@@@@@</text>
+    <rect y="259.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="2.220s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="2.271s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr38)">
+    <text x="0" y="272.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@@@@@%%%%@@@@@%#c*=-------:..=**c**++=--::::::::--=+*ccc+..`:-==-:-+*s#%@@@@%%%%@@@@@@@@@@@@@</text>
+    <rect y="266.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="2.280s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="2.331s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr39)">
+    <text x="0" y="279.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@@@@@%%%%@@@@%#s*=-:```:-----::`.-**cccc***++======++**ccccc-.``:-===-::`:-=+c#%@@@@@%%%%@@@@@@@@</text>
+    <rect y="273.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="2.340s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="2.391s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr40)">
+    <text x="0" y="286.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@@@%%%%@@@@%#c+-:```````:------:::`-cccccccccccccc*cccssssscs*````:-====---::::`:-+*s#%@@@@%%%%@@@@</text>
+    <rect y="280.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="2.400s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="2.451s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr41)">
+    <text x="0" y="293.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@%%@@@@%sc+-:````````::`--------::``+scssssssssssssss#ssssssc:.``:-======-:-::-::::---=*c#%@@@@@%%%</text>
+    <rect y="287.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="2.460s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="2.511s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr42)">
+    <text x="0" y="300.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">%%@@%s*=:`````::`````::`:---===--:::``+sss###ssss##########s=```::..:-=====-::::::`:-------=+c#%@@@@</text>
+    <rect y="294.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="2.520s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="2.571s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr43)">
+    <text x="0" y="307.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">@@s=-:``````:`:::`````:`----:`..  .`::`=s#################c:`````.    .`:-==--:::`:``--::-:::-==*cs%</text>
+    <rect y="301.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="2.580s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="2.631s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr44)">
+    <text x="0" y="314.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">%c:``````````:::```````:-`.     ..  .``::*##############%c:............. ..`::::``::`::::::::------=</text>
+    <rect y="308.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="2.640s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="2.691s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr45)">
+    <text x="0" y="321.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">-`:``````:````::`:``````. ........... ... :+s%%#########+.   ..`````::::``````::`:::`:::-::::::::---</text>
+    <rect y="315.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="2.700s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="2.751s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr46)">
+    <text x="0" y="328.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">`````````::``.`:::```````````````````.....  `=s%%####%s: ...`````::::::::::::-::::::`:::::::::::::::</text>
+    <rect y="322.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="2.760s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="2.811s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr47)">
+    <text x="0" y="335.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">`````````:``:`.````````````````````````````.  .=s%##%c` .````::::::::::::::::-:::`::`::`:::::::``:`:</text>
+    <rect y="329.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="2.820s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="2.871s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr48)">
+    <text x="0" y="342.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">````````````:`````````````````````````````````. .+##+..`````:::::`::---:::::::--:`:::::``````::``:``</text>
+    <rect y="336.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="2.880s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="2.931s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr49)">
+    <text x="0" y="349.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">````````````:`````:`````````````````````````````. :-.``````::::::::::::::::::::::`:::::``:````:``:`:</text>
+    <rect y="343.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="2.940s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="2.991s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr50)">
+    <text x="0" y="356.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">``````````:```````````````````````````````````````..````:``:::`::::::::::::::::::::-:--`````````::`:</text>
+    <rect y="350.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="3.000s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="3.051s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr51)">
+    <text x="0" y="363.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">```````````````````````````````````````````````````::``````````:::``::``:::::::::::::--:````````::`:</text>
+    <rect y="357.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="3.060s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="3.111s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr52)">
+    <text x="0" y="370.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">``````.``````````````````````````````````````````````::````:`````````````:::::::::::-:::``:`````::``</text>
+    <rect y="364.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="3.120s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="3.171s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr53)">
+    <text x="0" y="377.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">`````.``````````````````````````````````````````.``::::````:`````````````````````::::::::`:`````::``</text>
+    <rect y="371.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="3.180s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="3.231s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr54)">
+    <text x="0" y="384.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">`````.````````````````````````````````````````````````````````````````````````````:::-::::`:````:```</text>
+    <rect y="378.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="3.240s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="3.291s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr55)">
+    <text x="0" y="391.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">.````.`:::::````.``````````````````````````````````::::`````````````````````````````:::::::``````:``</text>
+    <rect y="385.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="3.300s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="3.351s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr56)">
+    <text x="0" y="398.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">.`:``.````````````````````````````````````````````````:`````````````````````````````:::::::::::`````</text>
+    <rect y="392.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="3.360s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="3.411s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr57)">
+    <text x="0" y="405.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">`.``..`..`````````````````````````````````````````::``````````````````````````````````..`::::::.````</text>
+    <rect y="399.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="3.420s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="3.471s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr58)">
+    <text x="0" y="412.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">`..`....``````````````````.`````````````````````````````````````````````````````````:```.```::`.````</text>
+    <rect y="406.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="3.480s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="3.531s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr59)">
+    <text x="0" y="419.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">``.``...``````````````````````.`````````````````````````````````````````````````````:````.`..:````:`</text>
+    <rect y="413.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="3.540s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="3.591s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr60)">
+    <text x="0" y="426.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">```.``..``````.```````````````.````````````````````````.`..```````````````````````````````.` .````:`</text>
+    <rect y="420.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="3.600s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="3.651s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr61)">
+    <text x="0" y="433.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">``:```...```...`````.``````````````````````````..``````.``..``````````````````````::`````:```..``::`</text>
+    <rect y="427.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="3.660s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="3.711s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr62)">
+    <text x="0" y="440.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">```:`....```.```..``..````````````````````````...````.`.`.....`..````````````````````````````..``:``</text>
+    <rect y="434.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="3.720s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="3.771s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr63)">
+    <text x="0" y="447.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">``.``....``````...``...````````````````.`````..`.``--:.``.`.```..`````.``````````````````````..`````</text>
+    <rect y="441.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="3.780s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="3.831s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g clip-path="url(#cr64)">
+    <text x="0" y="454.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="7" fill="#c0c0c0" xml:space="preserve">```......``````...```...````````......``````...`...`:``.`....```.``````..````````````````````..``.``</text>
+    <rect y="448.0" height="7.0" width="5.0" fill="#c0c0c0" opacity="0.7">
+      <animate attributeName="x" from="0" to="420.0" begin="3.840s" dur="0.051s" fill="freeze"/>
+      <animate attributeName="opacity" from="0.7" to="0" begin="3.891s" dur="0.05s" fill="freeze"/>
+    </rect>
+  </g>
+</svg>
