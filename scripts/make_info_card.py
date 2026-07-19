@@ -16,18 +16,18 @@ STATIC   = os.getenv("STATIC", "0") == "1"
 
 # ── Card Content ──────────────────────────────────────────────────────────────
 TITLE    = "YuvrajBundela29@github"
-OS_LINE  = "github.com/YuvrajBundela29"
+OS_LINE  = "Jhansi, India  \u00b7  he/him"
 
 ROWS = [
     # (key_color, key,          value_color, value)
     ("#39d353", "Name",        "#c0c0c0", "Yuvraj Singh Bundela"),
-    ("#39d353", "Role",        "#c0c0c0", "CS Student · Developer"),
-    ("#39d353", "Now",         "#c0c0c0", "Building cool things & learning every day"),
-    ("#39d353", "Stack",       "#c0c0c0", "Python · JS/TS · React · Node · C/C++ · Java"),
-    ("#39d353", "Also",        "#c0c0c0", "ML/AI  ·  Docker  ·  DevOps"),
-    ("#39d353", "Highlights",  "#c0c0c0", "OSS Contributor  ·  Competitive Programmer"),
-    ("#39d353", "Content",     "#c0c0c0", "Creator / Blogger  ·  Freelance Dev"),
-    ("#39d353", "GitHub",      "#58a6ff", "github.com/YuvrajBundela29"),
+    ("#39d353", "Role",        "#c0c0c0", "CSE Student  \u00b7  Cyber Security & AI Enthusiast"),
+    ("#39d353", "Education",   "#c0c0c0", "B.Tech @SRGI Jhansi  \u00b7  B.Sc.(Hons) AI @IITG"),
+    ("#39d353", "Stack",       "#c0c0c0", "Python \u00b7 JS/TS \u00b7 React \u00b7 Node \u00b7 C/C++ \u00b7 Java"),
+    ("#39d353", "Also",        "#c0c0c0", "ML / AI  \u00b7  Docker  \u00b7  DevOps"),
+    ("#39d353", "Highlights",  "#c0c0c0", "OSS Contributor  \u00b7  Competitive Programmer"),
+    ("#39d353", "Content",     "#c0c0c0", "Creator / Blogger  \u00b7  Freelance Developer"),
+    ("#39d353", "LinkedIn",    "#58a6ff", "in/yuvraj-singh-bundela-2a5227262"),
 ]
 
 # ── Layout ────────────────────────────────────────────────────────────────────
