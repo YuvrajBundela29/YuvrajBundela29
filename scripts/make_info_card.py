@@ -45,7 +45,7 @@ TITLE_COL = "#58a6ff"
 STAGGER   = 0.12   # seconds between line reveals
 
 def line_h_total() -> int:
-    return PAD_Y * 2 + LINE_H * 2 + LINE_H * len(ROWS) + 10
+    return PAD_Y * 2 + LINE_H * 2 + LINE_H * len(ROWS) + 25
 
 def anim(i: int, delay_extra: float = 0.0) -> str:
     if STATIC:
@@ -140,14 +140,18 @@ def svg() -> str:
         sep_x = key_x + 90
         val_x = sep_x + 12
 
+        # Escape special XML chars in key and val
+        es_key = key.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+        es_val = val.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
         if STATIC:
             p.append(
                 f'  <text x="{key_x}" y="{y}" font-family="{FONT}"'
-                f' font-size="{FS_BODY}" fill="{kc}">{key}</text>\n'
+                f' font-size="{FS_BODY}" fill="{kc}">{es_key}</text>\n'
                 f'  <text x="{sep_x}" y="{y}" font-family="{FONT}"'
                 f' font-size="{FS_BODY}" fill="#8b949e">│</text>\n'
                 f'  <text x="{val_x}" y="{y}" font-family="{FONT}"'
-                f' font-size="{FS_BODY}" fill="{vc}">{val}</text>\n'
+                f' font-size="{FS_BODY}" fill="{vc}">{es_val}</text>\n'
             )
         else:
             p.append(
@@ -158,11 +162,11 @@ def svg() -> str:
                 f' from="0 5" to="0 0"'
                 f' begin="{delay:.2f}s" dur="0.25s" fill="freeze"/>\n'
                 f'  <text x="{key_x}" y="{y}" font-family="{FONT}"'
-                f' font-size="{FS_BODY}" fill="{kc}">{key}</text>\n'
+                f' font-size="{FS_BODY}" fill="{kc}">{es_key}</text>\n'
                 f'  <text x="{sep_x}" y="{y}" font-family="{FONT}"'
                 f' font-size="{FS_BODY}" fill="#8b949e">│</text>\n'
                 f'  <text x="{val_x}" y="{y}" font-family="{FONT}"'
-                f' font-size="{FS_BODY}" fill="{vc}">{val}</text>\n'
+                f' font-size="{FS_BODY}" fill="{vc}">{es_val}</text>\n'
                 f'  </g>\n'
             )
 
